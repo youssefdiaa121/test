@@ -1,0 +1,78 @@
+*{padding: 0px;
+ margin: 0px;}
+    .o{margin-inline-start: 600px;
+    }
+    .a{margin-inline-start: 20px;}
+    .i{margin-inline-start: 15px;}
+    .l{margin-inline-start: 30px;}
+    .yyy{ margin-inline-start: 640px;
+        color: #fff;
+        }
+        .yyy :hover{color: blue;}
+        body{background-color: rgb(47, 37, 37);}
+        .t{margin-inline-start: 640px;
+            text-size-adjust: 100px;
+             color: #fff;}
+             .t :hover{color:blue;}
+             .ee{margin-inline-start: 620px;}
+             .ww{
+                margin-inline-start:600px;
+                margin-block-start: 10px;}
+                nav ul li{color: #fff;
+                    text-decoration: none;
+                    font-size: 18px;
+                    display: inline-block;
+                     margin-inline-end:145 ; 
+                   margin-inline-start: 134px;}
+                     nav ul li :hover{ color: red;
+                      transform: translateX(20px);
+                      transition: 0.8s;}
+         
+             .nn :hover{color: darkblue;    }
+             .one{margin-inline-start:300px;}
+             
+  
+
+     
+  
+    .s{border: solid 2px rgb(56, 49, 49);
+      background-color: rgb(255, 255, 255,0.1);
+      padding-block-start:20px ;
+      padding-block-end:20px ;
+      padding-inline-end:10px ;
+   ;
+  inline-size: 190px;
+ text-align: center;}
+ .v{border: solid 2px rgb(56, 49, 49);
+   background-color: rgb(255, 255, 255,0.1);
+   padding-block-start:20px ;
+   padding-block-end:20px ;
+   padding-inline-end:10px ;
+
+inline-size: 190px;
+text-align: center;}
+
+ .kk{text-decoration: none;
+   color: #fff; 
+  }
+ 
+             .h{border: solid 2px rgb(56, 49, 49);
+               background-color: rgb(255, 255, 255,0.1);
+               padding-inline-start:60px ;
+               padding-inline-end: 60px ;
+               padding-block-start:15pX ;
+              padding-block-end:15px ;
+              }
+ .r{border: solid 2px rgb(56, 49, 49);
+   background-color: rgb(255, 255, 255,0.1);
+   padding-block-start:20px ;
+   padding-block-end:20px ;
+   padding-inline-end:40px ;
+  padding-inline-start:40px ;
+ inline-size: 190px;
+ text-align: center;
+ color: #fff;
+ text-decoration: none;}
+ .bbb{text-decoration: none;
+ color: #fff;}
+           
